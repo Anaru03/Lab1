@@ -7,10 +7,10 @@ class ItemDataJTest {
     @org.junit.Test
     fun `Given a list, When it has multiple elements, Then result type and info should be correct`() {
         val result = listOf(
-            ItemData(10),
-            ItemData("Enero"),
-            ItemData(null),
-            ItemData(true)
+            ItemDataJ(10),
+            ItemDataJ("Enero"),
+            ItemDataJ(null),
+            ItemDataJ(true)
         )
 
         assertNotNull(result)
