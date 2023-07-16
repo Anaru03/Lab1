@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80f226fd-c866-4728-ab83-a2059a357369" name="Changes" comment="Arreglos">
+    <list default="true" id="80f226fd-c866-4728-ab83-a2059a357369" name="Changes" comment="Se desarrolla la clase getType()">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/ItemDataJ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ItemDataJ.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/kotlin/temDataJTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/temDataJTest.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1689472294353</updated>
       <workItem from="1689472295741" duration="1205000" />
-      <workItem from="1689473805279" duration="1118000" />
+      <workItem from="1689473805279" duration="1909000" />
     </task>
     <task id="LOCAL-00001" summary="Arreglos">
       <created>1689473913683</created>
@@ -85,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689473913683</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Se desarrolla la clase getType()">
+      <created>1689475186445</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689475186445</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +110,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Arreglos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arreglos" />
+    <MESSAGE value="Se desarrolla la clase getType()" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se desarrolla la clase getType()" />
   </component>
 </project>
