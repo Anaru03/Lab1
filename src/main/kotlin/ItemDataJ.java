@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class ItemDataJ {
+//Código en Java
+
+public class ItemDataJ {
+
 }
