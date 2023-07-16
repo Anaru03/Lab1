@@ -3,11 +3,18 @@
 public class ItemDataJ {
     Object originalValue;
 
-
+    /**
+     *
+     * @param originalValue constructor de la clase ItemDataJ
+     */
     public ItemDataJ(Object originalValue) {
         this.originalValue = originalValue;
     }
 
+    /**
+     *
+     * @return el método retorna null
+     */
     public String getType() {
         if (originalValue == null) {
             return null;
@@ -28,6 +35,10 @@ public class ItemDataJ {
     }
 
 
+    /**
+     *
+     * @return retorna un objeto de tipo String
+     */
     public String getInfo() {
         if (originalValue instanceof String) {
             return "L" + ((String) originalValue).length();

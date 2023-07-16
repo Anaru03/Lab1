@@ -1,5 +1,6 @@
 //Código en Kotlin
 
+
 class ItemData(val originalValue: Any?) {
     fun getType(): String? {
         return when (originalValue) {
